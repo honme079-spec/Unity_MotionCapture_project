@@ -15,3 +15,7 @@
 ## 리깅 영상입니다.
 
 https://github.com/user-attachments/assets/3ecd7cf5-13d0-4976-a7ae-c2c04e334142
+
+## 인게임 영상입니다
+
+https://youtu.be/oQvrXOIjWuQ
