@@ -4,3 +4,4 @@
 
 모션캡쳐 fbx는 무슨 이유인지 깃허브에 올라가지 않아서 제외했습니다.
 
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/6435e1da-0453-4196-ac7f-b23ebc1eb429" />
